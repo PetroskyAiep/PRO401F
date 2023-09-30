@@ -1,0 +1,7 @@
+{
+  "name": "PRO401F",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
